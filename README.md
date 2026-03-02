@@ -1,6 +1,6 @@
 # Payment compose
 
-Pay with all banks cards you have instantly . Compose UI with state hoisting 
+Pay with all banks cards you have instantly . Compose UI with state hoisting.
 
 ## Stacks
 
